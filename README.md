@@ -4,6 +4,10 @@
 
 **`Desenvolvedor FullStack`**
 
+Atualmente sou estudante de Ciência da Computação na Universidade Cidade de São Paulo (Unicid)
+
+Sou apaixonado por tecnologia e estou em constante evolução, tanto no campo acadêmico quanto, na prática. Nesse início de jornada, tenho me dedicado ao estudo da lógica de programação, dos fundamentos da computação e das bases do desenvolvimento web, como HTML, CSS e JavaScript. Estou começando a explorar o Front-end e Back-end e, aos poucos, ampliando meus conhecimentos para me tornar um desenvolvedor completo.
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
