@@ -1,6 +1,11 @@
-<h2 align="left"> Eu sou Gabriel Lopes </h2>
+👨‍💻 Eu sou Gabriel Lopes, estudante de programação e tecnologia!
+<hr>
 
-###
+Atualmente sou estudante de Ciência da Computação na Universidade Cidade de São Paulo (Unicid)
+
+Sou apaixonado por tecnologia e estou em constante evolução, tanto no campo acadêmico quanto, na prática. Nesse início de jornada, tenho me dedicado ao estudo da lógica de programação, dos fundamentos da computação e das bases do desenvolvimento web, como HTML, CSS e JavaScript. Estou começando a explorar o Front-end e Back-end e, aos poucos, ampliando meus conhecimentos para me tornar um desenvolvedor completo.
+
+<hr>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lopesz06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
