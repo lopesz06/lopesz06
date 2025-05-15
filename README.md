@@ -1,33 +1,49 @@
-👨‍💻 Eu sou Gabriel Lopes, estudante de programação e tecnologia!
-<hr>
+# 👋 Fala aí! Eu sou o Gabriel Lopes
 
-Atualmente sou estudante de Ciência da Computação na Universidade Cidade de São Paulo (Unicid)
+🎓 Bacharelando em Ciência da Computação 1/8 
+🔍 Em busca do meu **primeiro estágio em tecnologia**  
+📍 São Paulo – SP
 
-Sou apaixonado por tecnologia e estou em constante evolução, tanto no campo acadêmico quanto, na prática. Nesse início de jornada, tenho me dedicado ao estudo da lógica de programação, dos fundamentos da computação e das bases do desenvolvimento web, como HTML, CSS e JavaScript. Estou começando a explorar o Front-end e Back-end e, aos poucos, ampliando meus conhecimentos para me tornar um desenvolvedor completo.
+---
 
-<hr>
+## 🚀 Sobre mim
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lopesz06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lopesz06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+Sou graduando em Ciência da Computação e tenho verdadeira paixão por tecnologia, resolução de problemas e aprendizado contínuo. Estou em busca da minha primeira oportunidade na área de desenvolvimento, onde possa aplicar meus conhecimentos, crescer junto com um time e contribuir de forma significativa.
+Tenho como objetivo a médio prazo me tornar um desenvolvedor full stack, com visão de liderança e impacto real nos projetos em que atuar. Mais do que um cargo, busco fazer parte de algo que me desafie, me ensine e onde eu possa deixar minha marca.
 
-###
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-</div>
+## ⚙️ Tecnologias que estou aprendendo
 
-###
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+
+---
+
+## 📊 Meu GitHub Stats
 
 <div align="center">
-  <a href = https://www.linkedin.com/in/gabriel-lopes-cordeiro-8651b1202/><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lopesz06&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopesz06&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
 </div>
+
+---
+
+## 🎯 Objetivo atual
+
+Conquistar meu primeiro estágio em tecnologia, em um time que valorize gente com vontade de crescer, aprender e entregar resultado. Tô pronto pra somar e mostrar serviço!
+
+---
+
+## 📬 Vamos conversar?
+
+<a href="https://www.linkedin.com/in/gabriel-lopes-cordeiro-8651b1202" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" />
+</a>
+
+
+
 
