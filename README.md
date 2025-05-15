@@ -1,4 +1,4 @@
-# 👋 Fala aí! Eu sou o Gabriel Lopes
+# 👋 Gabriel Lopes
 
 🎓 Bacharelando em Ciência da Computação - 1/8 <br>
 🔍 Em busca do meu **primeiro estágio em tecnologia**  
